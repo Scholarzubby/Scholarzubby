@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **computational biology projects in healthcare**
 
-- 📝 I regularly write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
+- 📝 I write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
 
 - 📫 How to reach me **scholarzubby@gmail.com**
 
