@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **computational biology projects in healthcare**
 
-- 👨‍💻 Experienced working with [NGS data, bioactive compounds and protein structures for computational drug discovery, bioinformatic software tools, biological databases, data visualization and data analysis in R](NGS data, bioactive compounds and protein structures for computational drug discovery, bioinformatic software tools, biological databases, data visualization and data analysis in R)
+- 👨‍💻 Experienced working with (NGS data, bioactive compounds and protein structures for computational drug discovery, bioinformatic software tools, biological databases, data visualization and data analysis in R)
 
 - 📝 I regularly write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
 
