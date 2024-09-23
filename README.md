@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **computational biology projects in healthcare**
 
-- 📝 I write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
+- 📝 I regularly write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
 
 - 📫 How to reach me **scholarzubby@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://linkedin.com/in/https://www.linkedin.com/in/nzubechukwu-chinedu](https://www.linkedin.com/in/nzubechukwu-chinedu/)](https://www.linkedin.com/in/nzubechukwu-chinedu?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bed1wEBeRTi2Na7%2F3n9XB%2Bw%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nzubechukwu-chinedu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nzubechukwu chinedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nzubechukwu chinedu" height="30" width="40" /></a>
 <a href="https://medium.com/@scholarzubby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scholarzubby" height="30" width="40" /></a>
 </p>
 
