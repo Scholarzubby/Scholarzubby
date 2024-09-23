@@ -3,6 +3,8 @@
 
 - 👯 I’m looking to collaborate on **computational biology projects in healthcare**
 
+- 👨‍💻 Experienced working with [NGS data, bioactive compounds and protein structures for computational drug discovery, bioinformatic software tools, biological databases, data visualization and data analysis in R](NGS data, bioactive compounds and protein structures for computational drug discovery, bioinformatic software tools, biological databases, data visualization and data analysis in R)
+
 - 📝 I regularly write articles on [https://medium.com/@scholarzubby](https://medium.com/@scholarzubby)
 
 - 📫 How to reach me **scholarzubby@gmail.com**
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nzubechukwu-chinedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nzubechukwu chinedu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nzubechukwu-chinedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nzubechukwu-chinedu" height="30" width="40" /></a>
 <a href="https://medium.com/@scholarzubby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@scholarzubby" height="30" width="40" /></a>
 </p>
 
